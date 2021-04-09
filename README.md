@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a senior software developer from Germany. I'm currently working with PHP and Vue.js. In my free time I mostly program using the Laravel framework, React and TailwindCSS.
+
 <!--
 **Kaishiyoku/kaishiyoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
