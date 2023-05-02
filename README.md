@@ -7,6 +7,7 @@ My favorites:
 * Laravel
 * Tailwind CSS
 * React
+* Inertia.js
 * Alpine JS
 
 <!--
