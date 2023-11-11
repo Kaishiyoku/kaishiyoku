@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a senior software developer from Germany. I'm currently working with PHP and Vue.js. In my free time I mostly program using the Laravel framework, React, Alpine.js and TailwindCSS.
+I'm a senior software developer from Germany. I'm currently working with PHP and Vue.js. In my free time I mostly program using the Laravel framework, React and TailwindCSS.
 
 My favorites:
 
