@@ -8,7 +8,6 @@ My favorites:
 * Tailwind CSS
 * React
 * Inertia.js
-* Alpine JS
 * Statamic
 
 <!--
